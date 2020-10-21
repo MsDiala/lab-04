@@ -1,0 +1,129 @@
+/* mobile view */
+/* $vPurple:;
+$vPink: ;
+$vLightPurple: ;
+$vHotPink: ;
+$vGray: ;
+
+$dPurple: ;
+$dPink: ;
+$dLightPink: ;
+$dHotPink: ;
+$dGray: ;
+
+//  dull
+$Dpurple: ;
+$Dperywinkle: ;
+$Dpink:;
+$Dwhite: ;
+$DskyBlue: ; 
+
+
+//  vibrant
+$Vpurple: ;
+$Vperywinkle:;
+$Vpink: #;
+$Vwhite: #ffffff;
+$VskyBlue:; */
+
+
+#a {
+    background-color:  #551166c4;
+}
+
+#b {
+    
+    background-color: #dd00cbb6;
+}
+
+#c {
+    background-color: rgba(137, 43, 226, 0.623);
+}
+
+#d {
+    background-color: #aa4499a2;
+}
+#e {
+    background-color:#ff2298b4;
+}
+#f {
+    background-color: #99bbbbb2;
+}
+#g {
+    background-color: #442244ce;
+}
+#h {
+    background-color: rgba(138, 226, 226, 0.911);
+}
+#i {
+    background-color: rgba(118, 24, 141, 0.801);
+}
+
+/* tablet view */
+@media (min-width: 768px) {
+    #a {
+        background-color: #aa33987c;
+    }
+    
+    #b {
+        background-color:#4b494b77;
+    }
+    
+    #c {
+        background-color: #f57fd771;
+    }
+    
+    #d {
+        background-color: rgba(116, 28, 104, 0.466);
+    }
+    #e {
+        background-color:#d4229f79;
+    }
+    #f {
+        background-color: #8decfd6c;
+    }
+    #g {
+        background-color:#77779969;
+    }
+    #h {
+        background-color: #dd557775;
+    }
+    #i {
+        background-color: rgba(113, 27, 170, 0.295);
+    }
+}
+
+/* desktop view */
+@media (min-width: 961px) {
+    #a {
+        background-color: #bff0f083;
+    }
+    
+    #b {
+        background-color: #ffd9d988;
+    }
+    
+    #c {
+        background-color: #d4a8a88e;
+    }
+    
+    #d {
+        background-color:#fd9fe188;
+    }
+    #e {
+        background-color:#d0b3cc88;
+    }
+    #f {
+        background-color: #ffeeee85;
+    }
+    #g {
+        background-color:  #7766aa79;
+    }
+    #h {
+        background-color: rgba(219, 37, 180, 0.432);
+    }
+    #i {
+        background-color:  #7bf1f157;
+    }
+
+}
