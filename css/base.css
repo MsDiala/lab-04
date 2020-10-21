@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    /* background-image: url('..//css/z63mya.jpg'); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin: 0 auto;
+    height: 100%;
+    font-family: cursive;
+    font-size: xx-large;
+    color: rgb(97, 92, 92);
+}
+
+div {
+    border: 1px solid rgb(97, 92, 92);
+}
+
